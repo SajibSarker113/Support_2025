@@ -1,0 +1,300 @@
+Depot code: 09
+from Excel: South
+
+
+ Opening Date:   	13/07/2023
+
+ Closing Date:   	08/06/2024
+ ============================ 	
+
+
+ Opening Date:  	13Jul23
+
+
+ Closing Date:   	08Jun24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------
+Depot code: 13
+
+	BATCH_DIFF
+
+	BAG_RAINCOAT
+
+	BONUS_GAIN_RKB_SHORT
+	
+	BROKEN_DAMAGE
+
+	CANCEL_BILL
+
+	MANUAL_BILL
+	
+	RV
+
+	RV2
+	
+	RSM_QT_23
+	
+	RSM_QT_24
+
+
+	
+	BONUS_GAIN_RANG_ONE
+	
+	--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Depot code: 13
+from Excel: Maijdee
+
+  Opening Date:   	16/01/2023
+
+ Closing Date:   	05/05/2024
+ =================================== 	
+
+ Opening Date:  	16Jan2023
+
+ Closing Date:   	05May2024
+
+
+
+	
+	CHQ_DC
+
+	CHQ_P
+
+	DC_ALL_NEW
+
+	DD_CM
+
+	INS_BILL
+
+	INS_BILL_BZ_LIMIT_WITHDATE12_2023
+
+	OS_ALL_NEW
+
+	R_FP
+
+	REMIT_CANCEL
+
+	RSM_QT_23
+
+
+	INS_FLAT_SPCIAL_RATE
+	P_RATE_DAILY
+	
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	------------------
+B
+BAG_RAINCOAT
+BATCH
+BATCH_DIFF
+BATCH_W_ZERO
+BONUS_GAIN_RANG
+BONUS_GAIN_RANG_ONE
+BONUS_GAIN_REAL
+BONUS_GAIN_RKB
+BONUS_GAIN_RKB_SHORT
+BROKEN_DAMAGE
+C
+CANCEL_BILL
+CASH_CREDIT_OS
+CHQ_DC
+CHQ_P
+CL_CREDIT_DETAILS
+DC_ALL_NEW
+DC_RS
+DD_CM
+DOUBLE_CODE
+DROP_TABLE
+EMP
+FUEL
+INS_BILL
+INS_BILL_BZ_LIMIT_WITHDATE12_2023
+INS_BILL_BZ_LIMIT_WITHDATE12_2024
+INS_BILL_BZ_LIMIT_WITHDATE6_2023
+INS_BILL_BZ_LIMIT_WITHDATE6_2024
+INS_BILL_BZ_LIMIT12
+INS_BILL_BZ_LIMIT6
+INS_FLAT_SPCIAL_RATE
+MANUAL_BILL
+OS_ALL_NEW
+OS_ALL_OLD
+P_RATE_DAILY
+PC_VCHR
+R_FP
+REMIT_CANCEL
+RSM_QT
+RV
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parimal ID & PW 03267 
+------------------------------------------------------------------------
+pims/smip@orcl
+
+For share Drive:
+team3group@outlook.com
+teamThree
+31011990
+
+
+http://172.16.1.30:9001/forms/frmservlet?config=audit   (for KAMAL VAI Menu)
+
+http://172.16.1.30:9001/forms/frmservlet?config=i-tan
+
+
+
+
+
+Open d:  39
+-------------------------
+Jashore   s04/s04@cdb
+khulna    s05/353400@cdb
+Barishal   s06/barsc@cdb
+Bbaria     s16/s16_ke@cdb
+Faridpur   s25/s25@cdb
+Patuakhali s39/s39@cdb
+Rangpur    s01/s01@cdb
+
+Narayangonj      s27/s27@cdb
+Pabna      s36/hs36@cdb
+
+Rajshahi   s03/s03@cdb
+
+Feni       s37/s37@cdb
+
+Cumilla    s11/s11@cdb
+
+Mymensing   s07/s07@cdb
+
+tangail    s35/s35_T@cdb
+
+Savar	   s26/s26_123@cdb
+
+North	   s29/s29
+
+
+
+
+

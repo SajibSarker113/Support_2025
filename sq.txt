@@ -1,0 +1,82 @@
+ Opening Date:   	15/01/2023
+ Closing Date:   	10/02/2025
+ =================================== 	
+ Opening Date:  	15Jan2023
+ Closing Date:   	10Feb2025
+
+
+
+
+
+	B
+	
+	C
+	
+	CHQ_DC
+	
+	CHQ_P
+	
+	DC_ALL_NEW
+	
+	DD_CM
+	
+	INS_BILL
+	
+	INS_BILL_BZ_LIMIT_WITHDATE12_2024
+	
+	INS_BILL_Pivot
+	
+	INS_FLAT_SPCIAL_RATE
+	
+	OS_ALL_NEW
+	
+	R_FP
+	
+	REMIT_CANCEL
+	
+	CL_CREDIT_DETAILS
+	P_RATE_DAILY
+
+
+
+
+
+
+
+	
+	BAG_RAINCOAT
+	
+	BATCH_DIFF
+	
+	BONUS_GAIN_RKB_SHORT
+	
+	BROKEN_DAMAGE
+	
+	CANCEL_BILL
+	
+	MANUAL_BILL
+	
+	RSM_QT_EKSATHE_24
+	
+	RSM_QT_EKSATHE_25
+	
+	RSM_QT_one_month
+	
+	RTN_CAUSE
+	
+	RV
+	
+	
+	
+	
+	
+	
+	BATCH
+	
+	BATCH_W_ZERO
+	
+	BONUS_GAIN_RANG_ONE
+	
+	DATE_EXP
+	
+	P_RATE_DAILY
