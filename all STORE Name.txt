@@ -1,0 +1,58 @@
+
+
+
+
+
+
+	
+
+	BATCH_DIFF_GPT
+
+	RV_GPT
+
+	BAG_RAINCOAT
+
+	BONUS_GAIN_RKB_SHORT
+	BONUS_GAIN_RKB
+
+	BROKEN_DAMAGE
+
+	CANCEL_BILL
+
+	DATE_EXP
+
+	EXP_REPLACE_GPT
+
+	MANUAL_BILL
+
+	RTN_CAUSE_GPT
+
+	RSM_QT_EKSATHE_24
+	
+	RSM_QT_EKSATHE_25
+
+
+
+	SHORT_DATE
+
+
+
+
+	
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	P_RATE_DAILY
+
+	
+	RSM_QT_one_month
+	
+	RSM_QT_SEPA_24

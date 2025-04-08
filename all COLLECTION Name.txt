@@ -1,0 +1,55 @@
+ Opening Date:   	15/01/2023
+ Closing Date:   	10/02/2025
+ =================================== 	
+ Opening Date:  	15Jan2023
+ Closing Date:   	10Feb2025
+
+
+
+
+	B,C
+
+	CHQ_DC
+
+	CHQ_P
+
+	CL_CREDIT_DETAILS
+
+	COLL_REMIT
+
+	DC_ALL_NEW
+
+	INS_BILL
+
+	INS_BILL_6_2025
+
+	INS_BILL_12_2024
+
+	INS_BILL_Pivot
+
+	INS_RATE
+
+	INS_RATE_CHECK
+
+	INS_RATE_CKECK_ALL
+
+	INS_RATE_CKECK_ALL_NGTV
+
+	OS_ALL_NEW
+
+	P_RATE_DAILY
+
+	R_FP
+
+	REMIT_CANCEL_GPT
+	
+
+
+	
+
+
+
+MC HnV of a period, Fuel of Privet car,
+	
+	CL_CREDIT_DETAILS
+	P_RATE_DAILY
